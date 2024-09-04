@@ -1,5 +1,17 @@
 <menu>
-    <menuitem label='_t{Administration}'>
+    <menuitem label='Testes do Igor'>
+        <icon>fa:code fa-fw</icon>
+        <menu>
+            <menuitem label='Teste1'>
+                <action>Teste1</action>
+            </menuitem>
+            <menuitem label='Teste2'>
+                <action>SystemAdministrationDashboard</action>
+            </menuitem>
+        </menu>
+    </menuitem>
+
+        <menuitem label='_t{Administration}'>
         <icon>fas:home fa-fw</icon>
         <menu>
               <menuitem label='Dashboard'>
