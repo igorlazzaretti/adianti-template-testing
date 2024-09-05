@@ -2,11 +2,11 @@
     <menuitem label='Testes do Igor'>
         <icon>fa:code fa-fw</icon>
         <menu>
-            <menuitem label='Teste1'>
-                <action>Teste1</action>
+            <menuitem label='NavegaDir'>
+                <action>NavegaDir</action>
             </menuitem>
-            <menuitem label='Teste2'>
-                <action>SystemAdministrationDashboard</action>
+            <menuitem label='Navegadir      :q - WelcomeView'>
+                <action>WelcomeView</action>
             </menuitem>
         </menu>
     </menuitem>
